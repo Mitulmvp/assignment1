@@ -1,38 +1,3 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "This is the first assignment for the Coursera course \"Advanced Machine Learning and Signal Processing\"\n",
-    "\n",
-    "Just execute all cells one after the other and you are done - just note that in the last one you have to update your email address (the one you've used for coursera) and obtain a submission token, you get this from the programming assignment directly on coursera."
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "This notebook is designed to run in a IBM Watson Studio default runtime (NOT the Watson Studio Apache Spark Runtime as the default runtime with 1 vCPU is free of charge). Therefore, we install Apache Spark in local mode for test purposes only. Please don't use it in production.\n",
-    "\n",
-    "In case you are facing issues, please read the following two documents first:\n",
-    "\n",
-    "https://github.com/IBM/skillsnetwork/wiki/Environment-Setup\n",
-    "\n",
-    "https://github.com/IBM/skillsnetwork/wiki/FAQ\n",
-    "\n",
-    "Then, please feel free to ask:\n",
-    "\n",
-    "https://coursera.org/learn/machine-learning-big-data-apache-spark/discussions/all\n",
-    "\n",
-    "Please make sure to follow the guidelines before asking a question:\n",
-    "\n",
-    "https://github.com/IBM/skillsnetwork/wiki/FAQ#im-feeling-lost-and-confused-please-help-me\n",
-    "\n",
-    "\n",
-    "If running outside Watson Studio, this should work as well. In case you are running in an Apache Spark context outside Watson Studio, please remove the Apache Spark setup in the first notebook cells."
-   ]
-  },
   {
    "cell_type": "code",
    "execution_count": null,
